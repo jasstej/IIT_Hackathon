@@ -115,4 +115,4 @@ The tool leverages various data sources to make intelligent decisions about wher
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ev-charging-optimization.git
+   git clone https://github.com/jasstej/ev-charging-optimization.git
